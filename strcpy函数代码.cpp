@@ -11,3 +11,4 @@ char*strcopy(char*src){
 	p[length]='\0';
 	return p;
 }
+/*hl*/
